@@ -1,0 +1,12 @@
+I was able to complete the whole windows fundamental now. i'm moving to learning about active directory now..so:
+https://tryhackme.com/jr/activedirectorybasics
+
+There's a lot of information on active directory, it's so much i might have to go back and read about it again, but it requires an understanding of powershell, so it seems i'm going to be learning about powershell before fully going into active directory.
+i checked out:
+1). https://tryhackme.com/room/powershell
+2). https://learnxinyminutes.com/docs/powershell/
+
+i was stuck on a task in the powershell room on tryhackme so i checked unix stackxchange to find answers so i was directed to download a book.
+"Learning windows powershell in a month of lunches" link to download: https://russblog554767213.files.wordpress.com/2018/11/learn-windows-powershell-in-a-month-of-lunches.pdf
+
+it is a very good book, it explains how to use windows powershell very well, infact i was giving a task to read 1 chapter per day, so i would be starting that.
